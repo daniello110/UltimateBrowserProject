@@ -6,28 +6,28 @@
     <string-array name="holder_menu">
         <item>Pierwszy plan</item>
         <item>Skopiuj link</item>
-        <item>Udział</item>
+        <item>Udostępnij</item>
     </string-array>
 
     <!-- List -->
     <string-array name="list_menu">
         <item>Nowa zakładka</item>
         <item>Skopiuj link</item>
-        <item>Udział</item>
+        <item>Udostępnij</item>
         <item>Edycja</item>
-        <item>Usunąć</item>
+        <item>Usuń</item>
     </string-array>
 
     <!-- Main -->
     <string-array name="main_overflow">
         <item>Idź do góry</item>
-        <item>Dodaj do domu</item>
+        <item>Dodaj do ekranu startowego</item>
         <item>Znajdź na stronie</item>
         <item>Zrzut ekranu</item>
-        <item>Readability</item>
-        <item>Udział</item>
-        <item>Relayout</item>
-        <item>Porzucić</item>
+        <item>Tryb czytelny</item>
+        <item>Udostępnij</item>
+        <item>Zmień układ</item>
+        <item>Wyjdź</item>
     </string-array>
 
     <!-- Search engine -->
