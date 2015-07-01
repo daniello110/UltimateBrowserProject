@@ -4,7 +4,7 @@
 
     <!-- AndroidAgo -->
     <string name="android_ago_just_now">
-        Just now
+        Teraz
     </string>
 
     <!-- Album -->
@@ -15,56 +15,56 @@
         Historia
     </string>
     <string name="album_title_home">
-        Start
+        Strona główna
     </string>
     <string name="album_untitled">
-        Bez tytułu
+        Bez nazwy
     </string>
 
     <!-- Clear -->
     <string name="clear_label">
-        Pusty
+        Czyść
     </string>
     <string name="clear_menu_done_all">
         Gotowe
     </string>
     <string name="clear_title_quit">
-        Kasuj po zamknięciu przeglądarki
+        Wyczyść po zamknięciu aplikacji
     </string>
     <string name="clear_title_bookmarks">
-        Kasuj zakladki
+        Wyczyść zakładki
     </string>
     <string name="clear_title_cache">
-        Kasuj Cache
+        Wyczyść cache
     </string>
     <string name="clear_title_cookie">
-        Kasuj pliki Cookies
+        Wyczyść ciasteczka
     </string>
     <string name="clear_title_form_data">
-        Kasuj Form data
+        Wyczyść dane formularza
     </string>
     <string name="clear_title_history">
-        Kasuj Historię
+        Wyczyść historię
     </string>
     <string name="clear_title_passwords">
-        Kasuj Hasła
+        Wyczyść hasła
     </string>
 
     <!-- Dialog -->
     <string name="dialog_title_hint">
-        Napisz tytuł
+        Nazwa wejścia
     </string>
     <string name="dialog_se_hint">
-        https://www.google.com/search?q=
+        https://www.google.pl/search?q=
     </string>
     <string name="dialog_ua_hint">
         Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
     </string>
     <string name="dialog_sign_in_username">
-        Użytkownik
+        Nazwa użytkownika
     </string>
     <string name="dialog_sign_in_password">
-        Hasło
+       Hasło
     </string>
     <string name="dialog_button_positive">
         OK
@@ -73,42 +73,42 @@
         Anuluj
     </string>
     <string name="dialog_button_custom">
-        Niestandardowy
+        Własny
     </string>
     <string name="dialog_title_download">
-        Czy chcesz zapisać plik?
+        Czy chcesz pobrać ten plik?
     </string>
     <string name="dialog_title_resubmission">
-        Wyślij ponownie
+        Prześlij ponownie
     </string>
     <string name="dialog_title_warning">
-        Uwaga
+        Ostrzeżenie
     </string>
     <string name="dialog_title_sign_in">
-        Zaloguj
+        Zaloguj się
     </string>
     <string name="dialog_content_resubmission">
-        Czy chcesz ponownie wyslać dane?
+        Czy chciałbyś ponownie przesłać swoje dane?
     </string>
     <string name="dialog_content_ssl_error">
-        Certyfikat na stronie nie jest zaufany. Kontynuować?
+        Certyfikat tej strony nie jest zaufany. Kontynuować?
     </string>
     <string name="dialog_content_update">
-        Kliknij link by zaktualizować -\n http://bit.ly/UBPUpdate \n
-        Obecna wersja 1.4.4.
+        Kliknij link, aby sprawdzić dostępne aktualizacje -\n http://bit.ly/UBPUpdate \n
+        Obecna wersja - 1.4.4.
     </string>
     <string name="dialog_content_upload">
-        Obecnie obsluga przesylania pliku dostepna tylko w wesji Android 5.0 lub nowszym.
+        Obecnie wysyłanie plików jest dostępne jedynie dla wersji Android 5.0 i wyższych
     </string>
 
     <!-- List -->
     <string name="list_empty">
-        Lista jest pusta
+        Obecna lista jest pusta
     </string>
 
     <!-- Main -->
     <string name="main_menu_new_tab">
-        Otworz w nowej karcie
+       Otwórz w nowej karcie
     </string>
     <string name="main_menu_copy_link">
         Kopiuj link
@@ -128,12 +128,12 @@
 
     <!-- Notification -->
     <string name="notification_content_holder">
-        Kliknij by zobaczyc strone
+        Kliknij, aby zobaczyć strony
     </string>
 
     <!-- Readability -->
     <string name="readability_label">
-        Tryb czytania
+        Tryb czytelny
     </string>
     <string name="readability_menu_background">
         Tło
@@ -142,7 +142,7 @@
         Udostępnij
     </string>
     <string name="readability_empty">
-        BŁĄD: Brak dostępu do Trybu Czytania na Serwerze. Sprawdź połaczenie z internetem i token dostępu.
+        BŁĄD: Nie udało się połączyć z serwerem. Sprawdź swoje połączenie z siecią.
     </string>
 
     <!-- Search -->
@@ -160,7 +160,7 @@
     </string>
     <!-- Search engine -->
     <string name="setting_title_search_engine">
-        Wyszukiwarka
+        Silnik wyszukiwania
     </string>
     <string name="setting_summary_search_engine_google">
         Google
@@ -169,7 +169,7 @@
         DuckDuckGo
     </string>
     <string name="setting_summary_search_engine_startpage">
-        Strona startowa
+        Strona domowa
     </string>
     <string name="setting_summary_search_engine_bing">
         Bing
@@ -178,7 +178,7 @@
         Baidu
     </string>
     <string name="setting_summary_search_engine_custom">
-        Niestandardowy
+        Własny
     </string>
     <!-- Notification -->
     <string name="setting_title_notification_priority">
@@ -195,7 +195,7 @@
     </string>
     <!-- Omnibox switcher -->
     <string name="setting_title_omnibox_position">
-        Pozycja Omnibox
+        Pozycja Omniboxa
     </string>
     <string name="setting_summary_omnibox_position_top">
         Góra
@@ -205,98 +205,98 @@
     </string>
     <!-- Omnibox control -->
     <string name="setting_title_omnibox_control">
-        Kotrola Omnibox
+        Kontrola Omniboxa
     </string>
     <string name="setting_summary_omnibox_control">
-        Swipe omnibox lewo/prawo by przełączyć karty
+        Przesuń omnibox w lewo/prawo aby zmienić kartę
      </string>
     <!-- Volume key scroll -->
     <string name="setting_title_volume_control">
-        Regulacja głośności
+        Zmiana głośności
     </string>
     <string name="setting_summary_vc_switch_tabs">
-        Przełącz Karty
+        Zmień karty
     </string>
     <string name="setting_summary_vc_scroll_webpage">
-        Przewiń stronę
+        Przewijaj stronę
     </string>
     <string name="setting_summary_vc_system_default">
-        Ustawienia domyślne
+        Domyślne systemu
     </string>
     <!-- Images -->
     <string name="setting_title_images">
         Obrazy
     </string>
     <string name="setting_summary_images">
-        Pokaż zdjęcia w sieci
+        Uaktywnij obrazy z sieci
     </string>
     <!-- Cookies -->
     <string name="setting_title_cookie">
         Cookies
     </string>
     <string name="setting_summary_cookie">
-        Włącz obsługę Cookies
+        Uaktywnij Cookies
     </string>
     <!-- JavaScript -->
     <string name="setting_title_javascript">
         JavaScript
     </string>
     <string name="setting_summary_javascript">
-        Włącz obsługę  JavaScript
+        Uaktywnij JavaScript
     </string>
     <!-- Location -->
     <string name="setting_title_location">
         Lokalizacja
     </string>
     <string name="setting_summary_location">
-        Zezwól stronie na korzystanie z Twojej lokalizacji
+        Pozwój, aby witryny miały dostęp do lokalizacji
     </string>
     <!-- Multiple windows -->
     <string name="setting_title_multiple_windows">
-        Wiele okien
+        Wielokrotne okna
     </string>
     <string name="setting_summary_multiple_windows">
-        Włącz obsługę wielu okien
+        Uaktywnij wielokrotne okna
     </string>
     <!-- Scroll bar -->
     <string name="setting_title_scroll_bar">
-        Przwiń pasek
+        Pasek przewijania
     </string>
     <string name="setting_summary_scroll_bar">
-        Pokaż pasek przewijania strony
+        Pokaż pasek przewijania na stronach
     </string>
     <!-- Text reflow -->
     <string name="setting_title_text_reflow">
-        Text Reflow
+        Dostosowanie tekstu do okna
     </string>
     <string name="setting_summary_text_reflow">
-        Włącz obsługę text reflow
+        Uaktywnij dostosowanie tekstu do okna
     </string>
     <!-- User Agent -->
     <string name="setting_title_user_agent">
         User Agent
     </string>
     <string name="setting_summary_user_agent_default">
-        Domyślne
+        Domyślnie
     </string>
     <string name="setting_summary_user_agent_desktop">
         Pulpit
     </string>
     <string name="setting_summary_user_agent_custom">
-        Niestandardowy
+        Własne
     </string>
     <!-- Rendering -->
     <string name="setting_title_rendering">
-        Rendering
+        Renderowanie
     </string>
     <string name="setting_summary_rendering_default">
-        Domyślny
+        Domyślnie
     </string>
     <string name="setting_summary_rendering_grayscale">
         Skala szarości
     </string>
     <string name="setting_summary_rendering_inverted">
-        Odwrócony
+        Odwrócone kolory
     </string>
     <string name="setting_summary_rendering_inverted_grayscale">
         Odwrócona skala szarości
@@ -306,60 +306,60 @@
         AdBlock
     </string>
     <string name="setting_summary_adblock">
-        Zezwól na AdBlock
+        Uaktywnij AdBlocka
     </string>
     <string name="setting_title_whitelist">
-        Whitelist
+        Zaufana lista
     </string>
     <string name="setting_summary_whitelist">
-        Zezwól stronie na pokazywanie reklam
+        Zezwól, aby te strony wyświetlały reklamy
     </string>
     <string name="setting_title_export_whitelist">
-        Zapisz Whitelist
+        Eksportuj zaufaną listę
     </string>
     <string name="setting_title_import_whitelist">
-        Wczytaj Whitelist
+        Importuj zaufaną listę
     </string>
     <string name="whitelist_filename">
-        Whitelist
+        Zaufana lista
     </string>
     <!-- Readability settings -->
     <string name="setting_title_readability">
-        Tryb czytania
+        Tryb czytelny
     </string>
     <string name="setting_title_token">
         Token
     </string>
     <string name="setting_summary_readability">
-        Zezwól na tryb czytania
+        Uaktywnij tryb czytelny
     </string>
     <string name="setting_summary_token">
-        Ustaw Token trybu czytania
+        Ustaw token trybu czytelnego
     </string>
     <!-- Data setting -->
     <string name="setting_title_data">
-        Data
+        Dane
     </string>
     <!-- Passwords -->
     <string name="setting_title_passwords">
-        Hasło
+        Hasła
     </string>
     <string name="setting_summary_passwords">
-        Zapisz hasło
+        Zapisz hasła
     </string>
     <!-- Bookmarks -->
     <string name="setting_title_export_bookmarks">
-        Zapisz zakładki
+        Eksportuj zakładki
     </string>
     <string name="setting_title_import_bookmarks">
-        Otwórz zakładki
+        Importuj zakładki
     </string>
     <string name="bookmarks_filename">
         Zakładki
     </string>
     <!-- Clear -->
     <string name="setting_title_clear_control">
-        Czyść sterowanie
+        Kontrola czyszczenia
     </string>
     <!-- Others setting -->
     <string name="setting_title_others">
@@ -375,151 +375,151 @@
     </string>
     <!-- Contact -->
     <string name="setting_title_update">
-        Sprawdź aktualizację
+        Sprawdź dostępne aktualizacje
     </string>
 
     <!-- Toast -->
     <string name="toast_add_bookmark_successful">
-        Dodano do zakładek
+        Pomyślnie dodano do zakładek
     </string>
     <string name="toast_add_bookmark_failed">
-        Nie mozna dodać do zakładek
+        Nie można dodać tej strony do zakładek
     </string>
     <string name="toast_add_to_home_successful">
-        Dodano do  strony startowej
+        Pomyślnie dodano do strony domowej
     </string>
     <string name="toast_add_to_home_failed">
-         Nie dodano do strony startowej
+        Błąd przy dodawaniu do strony domowej
     </string>
     <string name="toast_add_token_successful">
-        Dodano Token trybu czytania
+        Pomyślnie dodano do modułu trybu czytelnego
     </string>
     <string name="toast_add_whitelist_successful">
-        Dodano domene do Whitelist
+        Pomyślnie dodano domenę do zaufanej listy
     </string>
     <string name="toast_already_at_the_front">
-        Już na początku
+        Już na wierzchu
     </string>
     <string name="toast_already_exist_in_home">
-        Już istnieje na stronie startowej
+        Już znajduje się w stronie domowej!
     </string>
     <string name="toast_clear_successful">
-        Usunięto
+        Pomyślnie wyczyszczono
     </string>
     <string name="toast_clear_failed">
-        Nie można usunąć
+        Problem przy czyszczeniu
     </string>
     <string name="toast_copy_successful">
-        Skopiowano
+        Pomyślnie skopiowano
     </string>
     <string name="toast_delete_bookmark_successful">
-        Usunięto zakładki
+        Pomyślnie usunięto zakładkę
     </string>
     <string name="toast_delete_successful">
-        Usunięto
+        Pomyślnie usunięto
     </string>
     <string name="toast_domain_already_exists">
-        Domena już jest na liście Whitelist
+        Ta domena znajduje się już na zaufanej liście
     </string>
     <string name="toast_double_taps_quit">
-        Naciśnij jeszcze raz by wyjść
+        Dotknij ponownie, aby zamknąć
     </string>
     <string name="toast_emoji">
         つ◕ل͜◕)つ
     </string>
     <string name="toast_export_bookmarks_successful">
-        Zapisano zakładki:&#160;
+        Wyeksportowano zakładki do pliku:&#160;
     </string>
     <string name="toast_export_bookmarks_failed">
-        Nie zapisano zakładek
+        Błąd przy eksportowaniu zakładek
     </string>
     <string name="toast_export_whitelist_successful">
-        Zapisano listę Whitelist:&#160;
+        Wyeksportowano zaufaną listę do pliku:&#160;
     </string>
     <string name="toast_export_whitelist_failed">
-        Nie zapisano listy Whitelist
+        Błąd przy eksportowaniu zaufanej listy
     </string>
     <string name="toast_import_bookmarks_successful">
-        Wczytano zakładki:&#160;
+        Liczba zaimportowanych zakładek:&#160;
     </string>
     <string name="toast_import_bookmarks_failed">
-        Nie wczytano zakładek
+        Błąd przy eksportowaniu zakładek
     </string>
     <string name="toast_import_whitelist_successful">
-        Wczytano domeny:&#160;
+        Liczba zaimportowanych domen:&#160;
     </string>
     <string name="toast_import_whitelist_failed">
-        Nie wczytano Whitelist
+        Błąd przy eksportowaniu zaufanej listy
     </string>
     <string name="toast_input_empty">
-        Nic nie wpisano
+        Nic nie dodano, sprawdź plik
     </string>
     <string name="toast_invalid_domain">
-        Błędna Domain
+        Nieprawidłowa domena
     </string>
     <string name="toast_load_error">
-        Nie można otwożyć strony
+        Nie można załadować tego URL
     </string>
     <string name="toast_load_in_background">
-        Otwieranie w tle
+        Ładowanie w tle
     </string>
     <string name="toast_need_restart">
-        Proszę zrestartować przeglądarkę by zmiany zostały zapisane
+        Proszę zamknąć aplikację, aby zmiany zostały wczytane
     </string>
     <string name="toast_new_tab_successful">
-        Otwarto w nowej karcie
+        Pomyślnie otwarto w nowej karcie
     </string>
     <string name="toast_open_file_manager_failed">
-        Nie otwarto menadżera plików
+        Błąd przy otwieraniu Menadżera plików
     </string>
     <string name="toast_refresh_failed">
-        Nie można odświerzyć
+        Nie można odświeżyć tej strony
     </string>
     <string name="toast_cannot_forward">
-        Nie mozna do przodu
+        Nie można iść dalej
     </string>
     <string name="toast_relayout_successful">
-        Successfully Relayout
+        Pomyślnie zmieniono układ
     </string>
     <string name="toast_screenshot_successful">
-        Zapisano zrzut ekranu:&#160;
+        Zrzut ekranu zapisano w:&#160;
     </string>
     <string name="toast_screenshot_failed">
-        Nie zapisano zrzutu ekranu
+        Błąd przy tworzeniu zrzutu ekranu
     </string>
     <string name="toast_share_failed">
-        Nie mozna udostępnić
+        Nie można udostępnić tej strony
     </string>
     <string name="toast_start_download">
-        Start ściągania
+        Rozpoczęcie pobierania
     </string>
     <string name="toast_token_empty">
-        Proszę ustawić token trybu czytania
+        Proszę ustawić moduł trybu czytelnego
     </string>
     <string name="toast_wait_a_minute">
-        Momencik
+        Proszę czekać
     </string>
 
     <!-- Token -->
     <string name="token_label">
-        Token
+        Moduł
     </string>
     <string name="token_edit_hint">
-        Token trybu czytania
+        Tryb czytelny
     </string>
     <string name="token_add">
         Dodaj
     </string>
     <string name="token_desc">
-        Idź do https://www.readability.com/developers/api po swój token trybu czytania
+        Idź do https://www.readability.com/developers/api aby zdobyć swój moduł trybu czytelnego
     </string>
 
     <!-- Whitelist -->
     <string name="whitelist_label">
-        Whitelist
+        Zaufana lista
     </string>
     <string name="whitelist_menu_clear">
-        Czyść
+        Wyczyść
     </string>
     <string name="whitelist_edit_hint">
         Domena
